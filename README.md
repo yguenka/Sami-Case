@@ -13,4 +13,10 @@ Vendedor que a soma das vendas seja até R 1.000,00(𝐵ô𝑛𝑢𝑠𝑑𝑒�
 Vendedor que a soma das vendas seja entre R 1.000,01𝑒𝑅  2.000,00 (Bônus de R$ 750,00)</br>
 Vendedor que a soma das vendas seja mais R 2.000,00(𝐵ô𝑛𝑢𝑠𝑑𝑒𝑅  1.000,00)</br>
 <h2><li><b>Precisamos gerar os seguintes relatórios (Reporting Services, Power BI, Excel, ...)</b></li></h2>
+<ol>
+	<h3><b>Qtd e total das vendas por estado;</b></h3>
+	<h3><b>Qtd e total das vendas por mês;</b></h3>
+	<h3><b>Por vendedor: A média do valor de vendas, quantos dias entre a primeira e última venda;</b></h3>
+	<h3><b>Exibir todas as vendas de cada vendedor, acumulando(somando) as vendas até aquele momento da venda</b></h3>
+</ol>
 </ol>
