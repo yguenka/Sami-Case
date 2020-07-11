@@ -6,6 +6,7 @@ Lembrando que você poderá realizar o teste em excel, sheets, Power BI ou em qu
 
 <ol>
 <h2><li><b><p align="justify">Criar uma rotina de ETL (Integration Services), que importe a base de dados `baseDados.xlsx`.</p></b></li></h2>
+
 ```
 def etl(dados):   
     df_vendedor = pd.read_excel(f'{dados}', sheet_name='TB_VENDEDOR')
